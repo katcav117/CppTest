@@ -4,6 +4,7 @@
 //
 //  Created by Kathleen Cavanagh on 1/21/18.
 //
+//learning to use git is hard but necessary
 
 #include <stdio.h>
 #include <math.h>
@@ -41,6 +42,7 @@ void removeLeaf(Node *n){
     
 }
 
+// test another comment down here!
 int main(){
     int N;
     scanf("%i\n", &N);
